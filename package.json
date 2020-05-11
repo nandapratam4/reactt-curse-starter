@@ -1,7 +1,7 @@
 {
-  "name": "static",
+  "name": "k3qrg",
   "version": "1.0.0",
-  "description": "This is a static template with no bundling",
+  "description": null,
   "main": "index.html",
   "scripts": {
     "start": "serve"
@@ -11,9 +11,8 @@
     "url": "git+https://github.com/codesandbox-app/static-template.git"
   },
   "keywords": [
-    "template",
     "codesandbox",
-    "static"
+    "template"
   ],
   "author": "Ives van Hoorne",
   "license": "MIT",
